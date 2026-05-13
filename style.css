@@ -1,2 +1,5 @@
-body{text-align: center;}
+body{ display:flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;}
 h1{ color:red;}
